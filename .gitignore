@@ -214,4 +214,5 @@ pyvenv.cfg
 pip-selfcheck.json
 .idea/
 config.yaml
+.twitterauth
 # End of https://www.toptal.com/developers/gitignore/api/python,virtualenv,flask
